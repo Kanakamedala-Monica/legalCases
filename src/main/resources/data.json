@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Smith v. Jones",
+        "type": "Civil",
+        "complexity": "High",
+        "startDate": "2023-01-15",
+        "endDate": "2023-06-30",
+        "description": "Dispute over property rights."
+    },
+    {
+        "id": 2,
+        "title": "State v. Williams",
+        "type": "Criminal",
+        "complexity": "Medium",
+        "startDate": "2022-05-10",
+        "endDate": "2022-12-05",
+        "description": "Case involving allegations of fraud."
+    },
+    {
+        "id": 3,
+        "title": "Brown v. Board of Education",
+        "type": "Civil",
+        "complexity": "High",
+        "startDate": "2023-03-20",
+        "endDate": "2023-09-25",
+        "description": "Case on school desegregation."
+    },
+    {
+        "id": 4,
+        "title": "Doe v. Roe",
+        "type": "Family",
+        "complexity": "Low",
+        "startDate": "2023-04-15",
+        "endDate": "2023-07-20",
+        "description": "Divorce proceedings."
+    },
+    {
+        "id": 5,
+        "title": "In re Estate of Johnson",
+        "type": "Probate",
+        "complexity": "Medium",
+        "startDate": "2023-02-01",
+        "endDate": "2023-10-30",
+        "description": "Dispute over will and testament."
+    },
+    {
+        "id": 6,
+        "title": "People v. Martinez",
+        "type": "Criminal",
+        "complexity": "High",
+        "startDate": "2022-08-15",
+        "endDate": "2023-02-20",
+        "description": "Case involving allegations of embezzlement."
+    },
+    {
+        "id": 7,
+        "title": "Taylor v. Anderson",
+        "type": "Civil",
+        "complexity": "Low",
+        "startDate": "2023-01-10",
+        "endDate": "2023-04-10",
+        "description": "Breach of contract dispute."
+    },
+    {
+        "id": 8,
+        "title": "Garcia v. City of Los Angeles",
+        "type": "Civil",
+        "complexity": "High",
+        "startDate": "2022-11-05",
+        "endDate": "2023-05-15",
+        "description": "Case on police misconduct."
+    },
+    {
+        "id": 9,
+        "title": "Lee v. Kim",
+        "type": "Family",
+        "complexity": "Medium",
+        "startDate": "2023-05-01",
+        "endDate": "2023-11-20",
+        "description": "Child custody dispute."
+    },
+    {
+        "id": 10,
+        "title": "Miller v. Green",
+        "type": "Civil",
+        "complexity": "Low",
+        "startDate": "2023-06-10",
+        "endDate": "2023-08-25",
+        "description": "Case involving a personal injury claim."
+    }
+]
